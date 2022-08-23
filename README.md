@@ -4,6 +4,7 @@ This is a simple readme file
 
 Jennie changed this line
 
-Jennie changed another line for new branch
+## Heading 2
 
+This is bound to cause trouble
 I hope this isn't much of a problem
